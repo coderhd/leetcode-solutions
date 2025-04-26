@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/coderhd/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/coderhd/leetcode-solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/coderhd/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/coderhd/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coderhd/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/coderhd/leetcode-solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/coderhd/leetcode-solutions/tree/master/0056-merge-intervals) |
 ## Binary Search
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/coderhd/leetcode-solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/coderhd/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/coderhd/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String

@@ -11,25 +11,25 @@
  */
 var reverseList = function(head) {
     // Iterative Way
-    // let prev = null;
-    // let curr = head;
-    // while(curr) {
-    //     const next = curr.next;
-    //     curr.next = prev;
-    //     prev = curr;
-    //     curr = next;
-    // }
-    // return prev;
+    let prev = null;
+    let curr = head;
+    while(curr) {
+        const next = curr.next;
+        curr.next = prev;
+        prev = curr;
+        curr = next;
+    }
+    return prev;
 
     // Recursive Way
-    if (!head) return null;
+    // if (!head) return null;
 
-    let newHead = head;
+    // let newHead = head;
 
-    if (head.next) {
-        newHead = reverseList(head.next);
-        head.next.next = head;
-    }
-    head.next = null;
-    return newHead;
+    // if (head.next) {
+    //     newHead = reverseList(head.next);
+    //     head.next.next = head;
+    // }
+    // head.next = null;
+    // return newHead;
 };

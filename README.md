@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/coderhd/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/coderhd/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0133-clone-graph](https://github.com/coderhd/leetcode-solutions/tree/master/0133-clone-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/coderhd/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/coderhd/leetcode-solutions/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/coderhd/leetcode-solutions/tree/master/0133-clone-graph) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/coderhd/leetcode-solutions/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->

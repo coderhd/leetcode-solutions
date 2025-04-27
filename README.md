@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/coderhd/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coderhd/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/coderhd/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/coderhd/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/coderhd/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/coderhd/leetcode-solutions/tree/master/0792-binary-search) |
 ## Hash Table
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/coderhd/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/coderhd/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/coderhd/leetcode-solutions/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/coderhd/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/coderhd/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/coderhd/leetcode-solutions/tree/master/0207-course-schedule) |
 ## Graph
 |  |
@@ -74,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/coderhd/leetcode-solutions/tree/master/0207-course-schedule) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/coderhd/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/coderhd/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

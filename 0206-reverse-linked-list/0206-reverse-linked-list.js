@@ -10,13 +10,26 @@
  * @return {ListNode}
  */
 var reverseList = function(head) {
-    let prev = null;
-    let curr = head;
-    while(curr) {
-        const next = curr.next;
-        curr.next = prev;
-        prev = curr;
-        curr = next;
+    // Iterative Way
+    // let prev = null;
+    // let curr = head;
+    // while(curr) {
+    //     const next = curr.next;
+    //     curr.next = prev;
+    //     prev = curr;
+    //     curr = next;
+    // }
+    // return prev;
+
+    // Recursive Way
+    if (!head) return null;
+
+    let newHead = head;
+
+    if (head.next) {
+        newHead = reverseList(head.next);
+        head.next.next = head;
     }
-    return prev;
+    head.next = null;
+    return newHead;
 };

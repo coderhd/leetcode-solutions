@@ -64,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/coderhd/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/coderhd/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/coderhd/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/coderhd/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/coderhd/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/coderhd/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/coderhd/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/coderhd/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -98,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/coderhd/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/coderhd/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/coderhd/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/coderhd/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->

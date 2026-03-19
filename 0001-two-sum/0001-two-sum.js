@@ -9,8 +9,6 @@ var twoSum = function(nums, target) {
         iObject[nums[i]] = i;
     }
 
-    console.log(iObject);
-
     for(let j = 0; j<nums.length; j++){
         const s = target - nums[j];
         if(iObject[s] && iObject[s] !== j){

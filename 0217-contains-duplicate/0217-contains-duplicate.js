@@ -3,13 +3,13 @@
  * @return {boolean}
  */
 var containsDuplicate = function(nums) {
-    const numMap = new Map();
+    const numSet = new Set();
     for(let i = 0; i < nums.length; i++) {
-        if (Boolean(numMap.get(nums[i]))) {
+        if (Boolean(numSet.has(nums[i]))) {
             return true;
         }
         else {
-            numMap.set(nums[i], 1);
+            numSet.add(nums[i]);
         }
     }
     return false;;

@@ -9,7 +9,8 @@ var groupAnagrams = function(strs) {
         for (let i = 0; i < s.length; i++) {
             count[s.charCodeAt(i) - 'a'.charCodeAt(0)] += 1;
         }
-        res[count.toString()] = res[count.toString()] ? [ ...res[count.toString()], s]: [s];
+        if(!res[count.toString()]) res[count.toString()] = [];
+        res[count.toString()].push(s);
     }
     return Object.values(res);
 };

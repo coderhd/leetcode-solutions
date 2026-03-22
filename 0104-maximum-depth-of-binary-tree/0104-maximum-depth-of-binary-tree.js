@@ -11,11 +11,9 @@
  * @return {number}
  */
 var maxDepth = function(root) {
-    /* DFS Recursive
-
+    // DFS Recursive - Best Approach
     if (!root) return 0;
     return 1 + Math.max(maxDepth(root.left), maxDepth(root.right))
-    */
 
     // DFS Iterative
     /*
@@ -34,6 +32,7 @@ var maxDepth = function(root) {
     */
 
     // BFS
+    /*
     if (!root) return 0;
     let level = 0;
     const queue = [root];
@@ -47,4 +46,5 @@ var maxDepth = function(root) {
         level += 1;
     }
     return level;
+    */
 };

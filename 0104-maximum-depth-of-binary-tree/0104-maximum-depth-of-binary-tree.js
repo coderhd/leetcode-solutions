@@ -18,7 +18,7 @@ var maxDepth = function(root) {
     */
 
     // DFS Iterative
-    
+    /*
     let res = 0;
     let stack = [[root, 1]];
 
@@ -31,20 +31,20 @@ var maxDepth = function(root) {
         }
     }
     return res;
-    
+    */
 
     // BFS
-    // if (!root) return 0;
-    // let level = 0;
-    // const queue = [root];
-    // while(queue.length > 0) {
-    //     for (let i = 0; i < queue.length; i++) {
-    //         const node = queue.shift();
-    //         if (node.left) queue.push(node.left);
-    //         if (node.right) queue.push(node.right);
-    //     }
-    //     console.log('q:', queue, level);
-    //     level += 1;
-    // }
-    // return level;
+    if (!root) return 0;
+    let level = 0;
+    const queue = [root];
+    while(queue.length > 0) {
+        const qLength = queue.length;
+        for (let i = 0; i < qLength; i++) {
+            const node = queue.shift();
+            if (node.left) queue.push(node.left);
+            if (node.right) queue.push(node.right);
+        }
+        level += 1;
+    }
+    return level;
 };

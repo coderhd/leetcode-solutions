@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/coderhd/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/coderhd/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/coderhd/leetcode-solutions/tree/master/0792-binary-search) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/coderhd/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
